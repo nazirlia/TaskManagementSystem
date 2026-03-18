@@ -1,0 +1,1 @@
+<Config><username>admin</username><password>123456</password><database>Postgres</database><options><auto_backup>true</auto_backup><max_connections>10</max_connections></options></Config>
